@@ -1,4 +1,5 @@
 <h1>Alura MIDI</h1>
+<p>Tecnologias Usadas: HTML | CSS | JavaScript </p>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/104658429/223202388-f31e5f44-af0d-4a3c-8eb6-dfbe192180ec.png">
